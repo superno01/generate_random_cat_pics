@@ -1,2 +1,1 @@
-# cat_pics
-random cat pics 
+# random_cat_pic
